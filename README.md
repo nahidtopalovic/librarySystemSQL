@@ -8,3 +8,5 @@ Database was designed to conform following scenario:
 ## UML model of the database ##
 
 ![alt text](https://github.com/nahidtopalovic/librarySystemSQL/blob/master/UMLfinalModel.png)
+
+** Database can be generated using the Database_creator_script.sql file **
